@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m Bruno Antunes
-🌎 From South America >> Brazil >> Minas Gerais >> Belo Horizonte
+🔭 I’m Bruno Antunes __
+🌎 From South America >> Brazil >> Minas Gerais >> Belo Horizonte __
 🏢 Around +12 years of experience developing and implementing Web Applications, Client/Server Applications and Mobile Applications
 💾 My stacks are C#, .NET Core, .Net Standard, Xamarin, MAUI, ASP.NET MVC and ASP.NET WEB API
 ⚽ I love soccer, mountain bike and games
